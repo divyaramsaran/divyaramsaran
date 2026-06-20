@@ -1,93 +1,105 @@
-# 🌌 GitHub Profile README Staging Template
-<!-- 
-INSTRUCTIONS:
-1. Create a public repository on GitHub with the exact same name as your GitHub username (e.g., if your username is "johndoe", create a repository named "johndoe").
-2. Initialize it with a README.md file.
-3. Copy the entire contents of this file (below this comment) and paste it into that README.md file.
-4. Replace all placeholders like `YOUR_GITHUB_USERNAME` and `YOUR_LINKEDIN_USERNAME` with your actual handles.
-5. Save, commit, and push! Your GitHub profile will be instantly transformed.
--->
-<div align="center">
-  
-  <!-- Typing SVG Banner - Customizable! -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+a+Developer;Python+%26+Machine+Learning;Building+Secure+Web+Apps;Welcome+to+my+Profile!" alt="Typing SVG" />
-  <p align="center">
-    <a href="https://github.com/YOUR_GITHUB_USERNAME">
-      <img src="https://komarev.com/normal-badge/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=39FF14&label=Profile+Views" alt="Profile Views" />
-    </a>
-  </p>
-  ---
-</div>
-## 💫 About Me
-I am a passionate **Software Engineer** and **Machine Learning Enthusiast** focused on building intelligent web applications and security analytics tools. Currently, I'm deep-diving into AI-driven anomaly detection and full-stack development.
-- 🔭 **Current Focus:** Developing a Business Email Compromise (BEC) detection platform.
-- 🌱 **Learning & Improving:** Advanced NLP models, Deep Learning architectures, and secure web API designs.
-- 👯 **Open to Collaboration:** On open-source security tools, backend API architectures, or machine learning pipelines.
-- 💬 **Ask me about:** Python, Flask, Scikit-learn, Pandas, or basic JavaScript web architectures.
-- ✉️ **How to reach me:** [your.email@example.com](mailto:your.email@example.com)
----
-## 🛠️ Languages and Tools
-<div align="left">
-  
-  ### 💻 Languages
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-  <br/>
-  ### ⚙️ Frameworks & Libraries
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <br/>
-  ### 🔧 Tools & Platforms
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-</div>
----
-## 📊 GitHub Analytics
-<!-- Table layout for side-by-side alignment of stats cards -->
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Most Used Languages</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="100%" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">GitHub Stats</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%" />
-      </p>
-    </td>
-  </tr>
-</table>
-<br/>
-<div align="center">
-  <h3>GitHub Streak Stats</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-</div>
-<br/>
-<div align="center">
-  <h3>GitHub Chronicles</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&bg_color=0f172a&color=38bdf8&line=38bdf8&point=38bdf8&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
-</div>
----
-## 🤝 Connect with Me
-<div align="center">
-  
+# Hi 👋, I'm Bagu Divya Ram Saran
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=divyaramsaran&color=a855f7&style=flat-square&label=Profile+Views" alt="Profile views" />
   <a href="https://www.linkedin.com/in/bagu-ram-saran-24393a260" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:bagudivyaramsaran@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="http://ramsaran-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI%2FML+Enthusiast;ThoughtWorks+Alum;Tatvam+AI+Alum" alt="Typing SVG" />
+</p>
+
+---
+
+### 💫 About Me
+
+I am a results-driven **Full-Stack Developer** and **B.Tech Computer Science (AI & ML)** student with a passion for crafting seamless user experiences, from frontend flair to backend power. I specialize in building clean, production-grade applications using the **MERN stack**, **PostgreSQL**, and **AI/ML workflows**.
+
+* 🎓 B.Tech CSE (AI & ML) student at **JNTUK, Kakinada** (CGPA: **9.175**)
+* 💼 Former Software Developer Intern at **ThoughtWorks Technologies**
+* 🧠 Passionate about building robust APIs, responsive UIs, and intelligent algorithms.
+* 💬 Ask me about **JavaScript, PostgreSQL, React, Deno, and Machine Learning**!
+
+---
+
+### 💻 Technologies & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,deno,postgres,mysql,mongodb,java,py,c,flask,git,github,docker,vercel&theme=dark" alt="My Skills" />
   </a>
-</div>
+</p>
+
+#### 🛠️ Tech Stack Categorized:
+* **Frontend:** HTML5, CSS3, JavaScript, React, Tailwind CSS, Bootstrap
+* **Backend & Databases:** Node.js, Express.js, Deno JS, PostgreSQL, MongoDB, MySQL, RESTful APIs
+* **Programming & AI:** Python, Flask, Java, C, Machine Learning
+
+---
+
+### 💼 Professional Experience
+
+#### 💻 **ThoughtWorks Technologies** — *Software Developer Intern*
+*📅 07/2024 – 03/2025*
+* Developed and delivered full-stack web applications using JavaScript and Deno, adhering to clean code and modular design.
+* Practiced **Test-Driven Development (TDD)** and wrote structured test cases to ensure robust reliability.
+* Collaborated with agile product teams on code reviews and real-world system design.
+
+#### 🧠 **Tatvam AI Labs** — *MERN Stack Developer Intern*
+*📅 05/2026 – 06/2026*
+* Built client management platform modules using **MongoDB, Express, React, and Node.js**.
+* Managed relational databases and optimized queries using **PostgreSQL**.
+* Implemented secure token-based user authentication (JWT) and **Role-Based Access Control (RBAC)**.
+
+#### 🌐 **Zonup** — *Frontend Developer Intern*
+*📅 05/2023 – 01/2024*
+* Designed and built a Quiz Registration Web Portal using HTML, CSS, JavaScript, and Bootstrap.
+* Created responsive layouts using custom CSS and optimized page load performance.
+
+---
+
+### 📁 Featured Projects
+
+| Project | Tech Stack | Key Features |
+| :--- | :--- | :--- |
+| 🏛️ **Temple CRM** | React, Node.js, PostgreSQL | Devotee records, service requests, RESTful APIs, secure auth. |
+| 🛡️ **BEC Shield** | Python, Flask, ML, Render | Real-time Business Email Compromise threat detection. |
+| ⚙️ **Admin Portal** | React, Express, PostgreSQL | Role-Based Access Control (RBAC) & member registration workflow. |
+| 📅 **Event Portal** | HTML/CSS, Bootstrap, MySQL | Cultural and academic event manager with persistent DB. |
+
+---
+
+### 📈 GitHub Stats & Activities
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=divyaramsaran&show_icons=true&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=divyaramsaran&show_icons=true&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api?username=divyaramsaran&show_icons=true&theme=default" alt="GitHub Stats" width="48%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=divyaramsaran&layout=compact&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=divyaramsaran&layout=compact&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyaramsaran&layout=compact&theme=default" alt="Top Languages" width="48%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=divyaramsaran&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=divyaramsaran&theme=default" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyaramsaran&theme=default" alt="GitHub Streak" width="98%" />
+  </picture>
+</p>
+
+---
+
+### 🤝 Connect with me:
+* 💼 **LinkedIn:** [linkedin.com/in/bagu-ram-saran-24393a260](https://www.linkedin.com/in/bagu-ram-saran-24393a260)
+* 📧 **Email:** [bagudivyaramsaran@gmail.com](mailto:bagudivyaramsaran@gmail.com)
+* 🌐 **Portfolio Website:** [divyaramsaran.github.io/portfolio](https://divyaramsaran.github.io/portfolio)
