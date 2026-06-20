@@ -81,13 +81,13 @@ I am a passionate **Software Engineer** and **Machine Learning Enthusiast** focu
 ## 🤝 Connect with Me
 <div align="center">
   
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/bagu-ram-saran-24393a260" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:bagudivyaramsaran@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://yourportfolio.dev" target="_blank">
+  <a href="http://ramsaran-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
