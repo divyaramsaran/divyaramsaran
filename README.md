@@ -11,19 +11,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI%2FML+Enthusiast;ThoughtWorks+Alum;Tatvam+AI+Alum" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Web+Application+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💫 About Me
-
-I am a results-driven **Full-Stack Developer** and **B.Tech Computer Science (AI & ML)** student with a passion for crafting seamless user experiences, from frontend flair to backend power. I specialize in building clean, production-grade applications using the **MERN stack**, **PostgreSQL**, and **AI/ML workflows**.
-
-* 🎓 B.Tech CSE (AI & ML) student at **JNTUK, Kakinada** (CGPA: **9.175**)
-* 💼 Former Software Developer Intern at **ThoughtWorks Technologies**
-* 🧠 Passionate about building robust APIs, responsive UIs, and intelligent algorithms.
-* 💬 Ask me about **JavaScript, PostgreSQL, React, Deno, and Machine Learning**!
+I am a results-driven **Full-Stack Developer** and **B.Tech Computer Science (AI & ML)** student with a passion for crafting seamless user experiences, from frontend flair to backend power. I specialize in building clean, production-grade web applications using the **MERN stack**, **PostgreSQL**, and **AI/ML workflows**.
+* 🎓 B.Tech CSE (AI & ML) student at **JNTUK, Kakinada**
+* 💼 Passionate about software craftsmanship, clean code architectures, and Test-Driven Development (TDD).
+* 🧠 Focused on building robust API services, responsive user interfaces, and intelligent, data-driven systems.
+* 💬 Ask me about **JavaScript, React, Node.js, PostgreSQL, and Machine Learning**!
 
 ---
 
@@ -39,40 +37,6 @@ I am a results-driven **Full-Stack Developer** and **B.Tech Computer Science (AI
 * **Frontend:** HTML5, CSS3, JavaScript, React, Tailwind CSS, Bootstrap
 * **Backend & Databases:** Node.js, Express.js, Deno JS, PostgreSQL, MongoDB, MySQL, RESTful APIs
 * **Programming & AI:** Python, Flask, Java, C, Machine Learning
-
----
-
-### 💼 Professional Experience
-
-#### 💻 **ThoughtWorks Technologies** — *Software Developer Intern*
-*📅 07/2024 – 03/2025*
-* Developed and delivered full-stack web applications using JavaScript and Deno, adhering to clean code and modular design.
-* Practiced **Test-Driven Development (TDD)** and wrote structured test cases to ensure robust reliability.
-* Collaborated with agile product teams on code reviews and real-world system design.
-
-#### 🧠 **Tatvam AI Labs** — *MERN Stack Developer Intern*
-*📅 05/2026 – 06/2026*
-* Built client management platform modules using **MongoDB, Express, React, and Node.js**.
-* Managed relational databases and optimized queries using **PostgreSQL**.
-* Implemented secure token-based user authentication (JWT) and **Role-Based Access Control (RBAC)**.
-
-#### 🌐 **Zonup** — *Frontend Developer Intern*
-*📅 05/2023 – 01/2024*
-* Designed and built a Quiz Registration Web Portal using HTML, CSS, JavaScript, and Bootstrap.
-* Created responsive layouts using custom CSS and optimized page load performance.
-
----
-
-### 📁 Featured Projects
-
-| Project | Tech Stack | Key Features |
-| :--- | :--- | :--- |
-| 🏛️ **Temple CRM** | React, Node.js, PostgreSQL | Devotee records, service requests, RESTful APIs, secure auth. |
-| 🛡️ **BEC Shield** | Python, Flask, ML, Render | Real-time Business Email Compromise threat detection. |
-| ⚙️ **Admin Portal** | React, Express, PostgreSQL | Role-Based Access Control (RBAC) & member registration workflow. |
-| 📅 **Event Portal** | HTML/CSS, Bootstrap, MySQL | Cultural and academic event manager with persistent DB. |
-
----
 
 ### 📈 GitHub Stats & Activities
 
@@ -96,10 +60,3 @@ I am a results-driven **Full-Stack Developer** and **B.Tech Computer Science (AI
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyaramsaran&theme=default" alt="GitHub Streak" width="98%" />
   </picture>
 </p>
-
----
-
-### 🤝 Connect with me:
-* 💼 **LinkedIn:** [linkedin.com/in/bagu-ram-saran-24393a260](https://www.linkedin.com/in/bagu-ram-saran-24393a260)
-* 📧 **Email:** [bagudivyaramsaran@gmail.com](mailto:bagudivyaramsaran@gmail.com)
-* 🌐 **Portfolio Website:** [divyaramsaran.github.io/portfolio](https://divyaramsaran.github.io/portfolio)
