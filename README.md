@@ -43,42 +43,21 @@ I am a results-driven **Full-Stack Developer** and **B.Tech Computer Science (AI
 ### 📈 GitHub Stats & Activities
 
 <p align="center">
-  <!-- Dark Mode Cards (Displayed when user has dark theme active) -->
   <img 
-    src="https://github-readme-stats-one-bice.vercel.app/api?username=divyaramsaran&show_icons=true&theme=tokyonight&hide_border=true#gh-dark-mode-only" 
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=divyaramsaran&show_icons=true&theme=tokyonight&hide_border=true" 
     alt="GitHub Stats" 
     width="48%" 
   />
   <img 
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=divyaramsaran&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" 
-    alt="Top Languages" 
-    width="48%" 
-  />
-
-  <!-- Light Mode Cards (Displayed when user has light theme active) -->
-  <img 
-    src="https://github-readme-stats-one-bice.vercel.app/api?username=divyaramsaran&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" 
-    alt="GitHub Stats" 
-    width="48%" 
-  />
-  <img 
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=divyaramsaran&layout=compact&theme=default&hide_border=true&hide=jupyter%20notebook#gh-light-mode-only" 
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=divyaramsaran&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&exclude_repo=BEC_Detection,portfolio" 
     alt="Top Languages" 
     width="48%" 
   />
 </p>
 
 <p align="center">
-  <!-- Dark Mode Streak Stats -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=divyaramsaran&theme=tokyonight&hide_border=true#gh-dark-mode-only" 
-    alt="GitHub Streak" 
-    width="98%" 
-  />
-  
-  <!-- Light Mode Streak Stats -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=divyaramsaran&theme=default&hide_border=true#gh-light-mode-only" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=divyaramsaran&theme=tokyonight&hide_border=true" 
     alt="GitHub Streak" 
     width="98%" 
   />
